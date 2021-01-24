@@ -60,3 +60,4 @@ Data summary
         C = Cherbourg (19%)
         Q = Queenstown (9%)
         S = Southampton (72%)
+        
